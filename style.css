@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.box{
+    border: 2px solid red;
+    width: 60vw;
+    height: 50vh;
+    margin-top: 15vh;
+    margin-left: 20vw;
+}
+#quote{
+    border: 2px solid blue;
+    width: 60%;
+    height: 60%;
+    margin-top: 2rem;
+    margin-left: 10rem;
+}
+#qauthor{
+    border: 2px solid blue;
+    width:20%;
+    height: 20%;
+    margin-top: 1rem;
+    margin-left: 20rem;
+}
+#btn{
+    border: 2px solid red;
+    width: 100px;
+    height: 50px;
+    margin-left: 50%;
+}
